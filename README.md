@@ -32,7 +32,8 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 
 # C. Model Training Details
 
-<img src="https://github.com/user-attachments/assets/69896bf8-69ea-4ca3-b6a4-8759c00e8f7d" width="100%" alt="Teachable Machine Training Settings" />
+<img width="226" height="484" alt="image" src="https://github.com/user-attachments/assets/c57c8743-b0e0-4ee8-bccc-bf3cb60a6972" />
+
 
 ### Why I chose these values:
 
@@ -41,7 +42,10 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 * **Batch Size (16):** The batch size determines how many images are analyzed before the model updates its internal parameters. A **batch size of 16** provides a good balance between training speed and memory usage, ensuring the browser remains stable while the model learns effectively from small groups of data.
 
 * **Learning Rate (0.001):** The learning rate is the "step size" the model takes while searching for the most accurate results. I used **0.001** because it is a standard, reliable rate that allows the model to converge on the correct answers steadily without skipping over the optimal patterns.
+# D. Model Evaluation
+  <img width="398" height="600" alt="image" src="https://github.com/user-attachments/assets/be307993-1fbd-4eb7-90cf-e996be4c73e7" />
 
+ 
 ## Fruit Classification Results
 
 | Image | Fruit Name |
