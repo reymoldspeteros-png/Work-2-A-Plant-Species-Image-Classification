@@ -60,4 +60,23 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 | <img src="https://github.com/user-attachments/assets/9d34d481-3b0d-40dd-9884-6c60d03220bf" width="250" /> | Mango |
 | <img src="https://github.com/user-attachments/assets/3dc0fa10-94e6-4485-8374-717540b359e9" width="250" /> | Guava |
 
+## 📝 Reflection Questions
+
+### 1. How did the number of images per class affect your model’s accuracy?
+The number of images per class was critical for the model's ability to generalize. I found that classes with more diverse images (different angles, lighting, and backgrounds) achieved higher accuracy. A balanced dataset across all fruit types ensured that the model didn't become biased toward one specific fruit.
+
+### 2. Which plant species were most commonly misclassified and why?
+The species most commonly misclassified were those with similar external textures or colors, such as **Mango and Guava**, especially in low-light images. This happened because the model initially focused on the green hue and round shape, which are shared characteristics between the two.
+
+### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+* **Epochs (50):** Increasing the epochs to 50 allowed the model to reach 100% confidence by giving it enough time to minimize loss. 
+* **Batch Size (16):** A smaller batch size of 16 made the training more stable on the web browser and allowed the model to update its weights more frequently.
+* **Learning Rate (0.001):** This "middle-ground" rate ensured the model learned at a steady pace. A higher rate made the accuracy fluctuate too much, while a lower rate made the training too slow.
+
+### 4. What challenges did you encounter during dataset collection and labeling?
+The main challenge was ensuring quality and variety. It was difficult to find images of certain fruits that didn't have distracting backgrounds. Labeling required careful attention to detail to ensure that no images were placed in the wrong category, which would have confused the model.
+
+### 5. If you were to improve your model, what specific changes would you make and why?
+I would increase the **dataset size** and include images of fruits in various stages of ripeness. I would also add a "Neutral" or "Unknown" class to prevent the model from forced-classifying objects that are not fruits at all. This would make the model more robust for real-world use.
+
 
