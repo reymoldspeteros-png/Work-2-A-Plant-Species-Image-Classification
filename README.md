@@ -30,10 +30,18 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 | <img src="https://cdn.britannica.com/95/126995-050-101B8B8D/Sweetsop.jpg" width="80"> | Custard Apple | Annona squamosa | Sweet, creamy fruit with segmented flesh, often eaten fresh. |
 | <img src="https://images.wisegeek.com/lychee.jpg" width="80"> | Lychee | Litchi chinensis | Small, round fruit with rough red skin and juicy translucent flesh. |
 
+# C. Model Training Details
 
-## E. Model Testing
+<img src="https://github.com/user-attachments/assets/69896bf8-69ea-4ca3-b6a4-8759c00e8f7d" width="100%" alt="Teachable Machine Training Settings" />
 
-## Fruit Classification Results
+### Why I chose these values:
+
+* **Epochs (50):** An epoch represents one full cycle through the training dataset. I chose **50 epochs** to give the model enough time to learn and refine its recognition of specific fruit textures (like the spikes on a Durian or the ridges of a Starfruit). This number is high enough for high accuracy but low enough to prevent "overfitting," where the model simply memorizes the images.
+
+* **Batch Size (16):** The batch size determines how many images are analyzed before the model updates its internal parameters. A **batch size of 16** provides a good balance between training speed and memory usage, ensuring the browser remains stable while the model learns effectively from small groups of data.
+
+* **Learning Rate (0.001):** The learning rate is the "step size" the model takes while searching for the most accurate results. I used **0.001** because it is a standard, reliable rate that allows the model to converge on the correct answers steadily without skipping over the optimal patterns.
+
 ## Fruit Classification Results
 
 | Image | Fruit Name |
