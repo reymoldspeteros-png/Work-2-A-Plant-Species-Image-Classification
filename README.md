@@ -31,3 +31,16 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 | <img src="https://images.wisegeek.com/lychee.jpg" width="80"> | Lychee | Litchi chinensis | Small, round fruit with rough red skin and juicy translucent flesh. |
 
 
+## E. Model Testing
+
+| Fruit Image | Fruit Name |
+| :---: | :--- |
+| <img src="images/dilla.jpeg" width="100"> | Sapodilla |
+| <img src="images/star.jpeg" width="100"> | Starfruit |
+| <img src="images/duri.jpeg" width="100"> | Durian |
+| <img src="images/pine.jpeg" width="100"> | Pineapple |
+| <img src="images/papaya.jpeg" width="100"> | Papaya |
+| <img src="images/apl.jpeg" width="100"> | Apple |
+| <img src="images/ram.jpeg" width="100"> | Rambutan |
+| <img src="images/mang.jpeg" width="100"> | Mango |
+| <img src="images/guava.jpeg" width="100"> | Guava |
