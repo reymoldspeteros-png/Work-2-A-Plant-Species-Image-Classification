@@ -34,16 +34,18 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 ## E. Model Testing
 
 ## Fruit Classification Results
+## Fruit Classification Results
 
-| Fruit Image | Fruit Name |
-| :---: | :--- |
-| ![Sapodilla](dilla.jpeg) | Sapodilla |
-| ![Starfruit](star.jpeg) | Starfruit |
-| ![Durian](duri.jpeg) | Durian |
-| ![Pineapple](pine.jpeg) | Pineapple |
-| ![Coconut](coco.jpeg) | Coconut |
-| ![Papaya](papaya.jpeg) | Papaya |
-| ![Apple](apl.jpeg) | Apple |
-| ![Rambutan](ram.jpeg) | Rambutan |
-| ![Mango](mang.jpeg) | Mango |
-| ![Guava](guava.jpeg) | Guava |
+| Image | Fruit Name |
+|:-----:|:-----------|
+| <img src="https://github.com/user-attachments/assets/a93e99a5-da29-474f-b55e-76faecb06b8d" width="250" /> | Sapodilla |
+| <img src="https://github.com/user-attachments/assets/f6ee2b51-7c37-465d-a21c-aa53b53ea996" width="250" /> | Starfruit |
+| <img src="https://github.com/user-attachments/assets/83d2ec5c-06a2-4806-9713-5169ad96ea4a" width="250" /> | Durian |
+| <img src="https://github.com/user-attachments/assets/8558696c-46dd-4d5b-9f4e-f89d7295eff8" width="250" /> | Pineapple |
+| <img src="https://github.com/user-attachments/assets/b85ff287-37ed-4d17-9b5e-65dc89ce384c" width="250" /> | Papaya |
+| <img src="https://github.com/user-attachments/assets/3c8b3f18-7be8-4bf5-a5cd-903543e7891c" width="250" /> | Apple |
+| <img src="https://github.com/user-attachments/assets/519a7869-2b72-4ca5-9c18-60e77144da4e" width="250" /> | Rambutan |
+| <img src="https://github.com/user-attachments/assets/9d34d481-3b0d-40dd-9884-6c60d03220bf" width="250" /> | Mango |
+| <img src="https://github.com/user-attachments/assets/3dc0fa10-94e6-4485-8374-717540b359e9" width="250" /> | Guava |
+
+
