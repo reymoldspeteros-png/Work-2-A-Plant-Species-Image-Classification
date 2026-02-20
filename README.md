@@ -33,14 +33,17 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 
 ## E. Model Testing
 
+## Fruit Classification Results
+
 | Fruit Image | Fruit Name |
 | :---: | :--- |
-| <img src="images/dilla.jpeg" width="100"> | Sapodilla |
-| <img src="images/star.jpeg" width="100"> | Starfruit |
-| <img src="images/duri.jpeg" width="100"> | Durian |
-| <img src="images/pine.jpeg" width="100"> | Pineapple |
-| <img src="images/papaya.jpeg" width="100"> | Papaya |
-| <img src="images/apl.jpeg" width="100"> | Apple |
-| <img src="images/ram.jpeg" width="100"> | Rambutan |
-| <img src="images/mang.jpeg" width="100"> | Mango |
-| <img src="images/guava.jpeg" width="100"> | Guava |
+| ![Sapodilla](dilla.jpeg) | Sapodilla |
+| ![Starfruit](star.jpeg) | Starfruit |
+| ![Durian](duri.jpeg) | Durian |
+| ![Pineapple](pine.jpeg) | Pineapple |
+| ![Coconut](coco.jpeg) | Coconut |
+| ![Papaya](papaya.jpeg) | Papaya |
+| ![Apple](apl.jpeg) | Apple |
+| ![Rambutan](ram.jpeg) | Rambutan |
+| ![Mango](mang.jpeg) | Mango |
+| ![Guava](guava.jpeg) | Guava |
