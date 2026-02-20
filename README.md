@@ -31,9 +31,7 @@ The model aims to **automatically recognize tropical fruits**, help users identi
 | <img src="https://images.wisegeek.com/lychee.jpg" width="80"> | Lychee | Litchi chinensis | Small, round fruit with rough red skin and juicy translucent flesh. |
 
 # C. Model Training Details
-
 <img width="226" height="484" alt="image" src="https://github.com/user-attachments/assets/c57c8743-b0e0-4ee8-bccc-bf3cb60a6972" />
-
 
 ### Why I chose these values:
 
